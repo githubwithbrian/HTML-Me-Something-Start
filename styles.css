@@ -1,1 +1,21 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: rgb(183, 183, 255);
+    max-width: 1080px;
+    font-family: 'Courier New', Courier, monospace;
+}
+article {
+    border: dashed;
+    padding: 20px;
+    text-align: center;
+background-color: rgb(224, 255, 193);}
+.funParagraph {
+    color: green;
+}
+#mainHeading {
+color: red;
+background-color:rgb(224, 255, 193);
+font-size: 54px;
+text-align: center;
+}
